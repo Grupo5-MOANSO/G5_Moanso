@@ -69,4 +69,3 @@ namespace Laboratorio_Semana_02___Moanso
 //
 Proyecto Git
 //
-GRUPO 5
